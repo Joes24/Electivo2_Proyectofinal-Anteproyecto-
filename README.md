@@ -1,8 +1,8 @@
-#Proyecto Final: Super-Resolución de Imágenes 2D
+## Proyecto Final: Super-Resolución de Imágenes 2D
 
-##Entrega Parcial (Anteproyecto): Método Numérico Funcional
+## Entrega Parcial (Anteproyecto): Método Numérico Funcional
 
-##Integrantes: José Gormaz, Octavio Marchant, Miguel Quispe, Steffany Urzúa.
+## Integrantes: José Gormaz, Octavio Marchant, Miguel Quispe, Steffany Urzúa.
 
 Este repositorio contiene la implementación del método de **Descenso de Gradiente (GD)** para resolver un problema de Super-Resolución (SR) de imágenes, formulado como un problema inverso regularizado.
 
