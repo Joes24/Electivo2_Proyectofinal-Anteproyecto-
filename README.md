@@ -43,7 +43,7 @@ Los regularizadores operan sobre el gradiente de la imagen para imponer estabili
 
 ### B. Instalación
 
-1.  Clonar el repositorio.
+1.  Clonar el repositorio en google colab (recomendado).
 2.  Crear un entorno virtual (opcional pero recomendado).
 3.  Instalar las dependencias necesarias:
     ```bash
