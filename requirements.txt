@@ -1,0 +1,6 @@
+flask
+numpy
+scipy
+pillow
+matplotlib
+pyngrok
